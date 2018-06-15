@@ -10,7 +10,7 @@ Die App hat folgende Funktionen:
 
 Erfordert mindestens Android 4.4
 
-<img width="" heigth="" src="sample/home.png"/>
+<img width="216" heigth="384" src="sample/home.png"/>
 
 ## Changelog
 
