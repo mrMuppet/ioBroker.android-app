@@ -8,6 +8,14 @@ Die App hat folgende Funktionen:
 - Unterstützung von States mit vordefinierten Werten
 - ...
 
-Erfordert mindestens Android 7.0
+Erfordert mindestens Android 4.4
 
-<img src="sample/home.png"/>
+<img width="" heigth="" src="sample/home.png"/>
+
+## Changelog
+
+### 0.7.0 (2018-06-15) 
+- Support of Android 4.4+
+
+### 0.6.0 (2018-06-14) 
+- initial public testing
