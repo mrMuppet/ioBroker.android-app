@@ -14,6 +14,9 @@ Erfordert mindestens Android 4.4
 
 ## Changelog
 
+### 0.8.0
+- firebase crash logs added
+
 ### 0.7.0 (2018-06-15) 
 - Support of Android 4.4+
 
