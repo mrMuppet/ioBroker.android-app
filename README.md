@@ -14,8 +14,9 @@ Erfordert mindestens Android 4.4
 
 ## Changelog
 
-### 0.8.0
+### 0.8.2 (2018-06-17)
 - firebase crash logs added
+- bugfix: validate socket url
 
 ### 0.7.0 (2018-06-15) 
 - Support of Android 4.4+
