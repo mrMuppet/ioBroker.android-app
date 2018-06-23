@@ -19,7 +19,7 @@ Erfordert mindestens Android 4.4
 
 ## Changelog
 
-### 0.9.1 (2018-06-19)
+### 0.9.2 (2018-06-23)
 - flag rooms and functions as favorite
 - show list of favorites on homescreen
 - support readonly states
