@@ -19,12 +19,12 @@ Erfordert mindestens Android 4.4
 
 ## Changelog
 
-### 0.9.2 (2018-06-23)
+### 0.9.x (2018-06-23)
 - flag rooms and functions as favorite
 - show list of favorites on homescreen
 - support readonly states
 
-### 0.8.2 (2018-06-17)
+### 0.8.x (2018-06-17)
 - firebase crash logs added
 - bugfix: validate socket url
 
