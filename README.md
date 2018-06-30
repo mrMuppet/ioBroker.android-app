@@ -1,19 +1,16 @@
 # ioBroker.android-app
+Diese App ermöglicht die Überwachung und Steuerung aller Werte eines ioBroker Smart Home Systems.
 
-Die App hat folgende Funktionen:
-- Socket-Verbindung zu ioBroker direkt oder über cloud.pro
-- Anzeige aller Räume und Funktionen
-- Anzeige aller States eines Raumes/einer Funktion
-- Verschiedene UI Elemente je nach State role
-- Unterstützung von States mit vordefinierten Werten
-- ...
+ioBroker ist eine Integrationsplattform für das Internet der Dinge und dient als zentraler Server der über modulare “Adapter” mit einer Vielzahl an Systemen und Geräten kommunizieren.
 
-Geplante Features:
-- Username/Passwort für Socket-Verbindung
-- Favoriten für States
-- Anzeige der State-Historie
+Highlights der App:
+- Verbindung zu ioBroker direkt oder über cloud.pro
+- Anzeige der Werte aller Räume und Funktionen
+- Verschiedene UI Elemente anhand der Roles von ioBroker
+- Schnellzugriff auf die wichtigsten Werte vom Homescreen
+- keine Zusatzadapter notwendig
 
-Erfordert mindestens Android 4.4
+Du hast Fragen oder Anregungen? Sende einfach eine E-Mail an iobroker@nisnagel.de.
 
 <img width="216" heigth="384" src="sample/home.png"/>
 
